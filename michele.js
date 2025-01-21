@@ -2,4 +2,6 @@ const love = "love";
 
 const michele = "Michele";
 
-console.log(`${michele} ${love} JavaScript!`);
+const hatedTeam = "Juve";
+
+console.log(`${michele} ${love} JavaScript! ${hatedTeam} sucks!`);
