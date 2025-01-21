@@ -8,7 +8,7 @@ const lazio = "Lazio";
 
 const alessandro = "Alessandro";
 
-const paese = "Misilmeri";
+const paese = "Blufi";
 
 console.log(
   `${michele} ${love} JavaScript! ${hatedTeam} sucks! and  ${lazio} is the best team in the world! `
